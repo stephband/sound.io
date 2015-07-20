@@ -1,3 +1,3 @@
 # Looking for Soundio?
 
-All repos relating to sound.io have been moved to <a href="http://github.com/soundio/">github.com/soundio</a>.
+Repos for the sound.io project have been moved to <a href="http://github.com/soundio/">github.com/soundio</a>.
